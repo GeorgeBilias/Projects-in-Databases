@@ -1,0 +1,6 @@
+ΜΠΙΛΙΑΣ ΓΕΩΡΓΙΟΣ - 3200278
+ΜΠΟΥΡΑΖΑΝΑΣ ΠΑΝΑΓΙΩΤΗΣ - 3200268
+Endpoint:auebserverdb2022.postgres.database.azure.com
+Username:examiner@auebserverdb2022
+Password: AuebServer2022
+Database:postgres               
